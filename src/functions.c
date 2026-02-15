@@ -9,7 +9,8 @@ int foo(int bar)
 // Function header declaration
 int foobar(int fb);
 
-void moo() {
+void moo()
+{
     printf("MOO\n");
 }
 
@@ -22,7 +23,6 @@ int main()
 
     return 0;
 }
-
 
 // Function declaration below main function
 int foobar(int fb)
