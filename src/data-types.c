@@ -11,8 +11,8 @@ int main()
     unsigned short us = 65535;
     printf("Unsigned Short %d\n", us);
 
-    // Integer ranges from -32767 to +32767
-    int i = 32767;
+    // Integer ranges from -2147483648  to +2147483647
+    int i = 2147483647;
     printf("Int %d\n", i);
 
     // Unsigned Integer ranges from 0 to +4294967295
